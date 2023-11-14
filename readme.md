@@ -1,7 +1,14 @@
+Challenge 3: String Format - Round Float
+
+- Nhập thêm chiều cao
+- sử dụng `.format()`
+- round để chuyển các số thập phân 
+- refactoring code 
+
 Challenge 2: Input - Variable
 
 - Nhập từ bàn phím và sử dụng `input()`
-- sử dụng built-in function 
+- sử dụng built-in function
 - Constant_varialbe
 - over write
 
